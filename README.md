@@ -8,8 +8,9 @@ python entrez_specific_GO.py [species] [GO id]
 
 ## Output
 
-(1) GO_entrez_[species]_[GO term]_list.txt
-(2) GO_symbol_[species]_[GO term]_list.txt
+(1) GO_entrez_[species][GO term]_list.txt
+
+(2) GO_symbol_[species][GO term]_list.txt
 
 ## Example
 
